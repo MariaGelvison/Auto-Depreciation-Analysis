@@ -4,7 +4,7 @@
 
   - [Project Overview](#project-overview)
   - [Data Analysis](#data-analysis)
-  - [Conclusions](#conclusions)
+  - [Insights](#insights)
   - [Recommendations](#recommendations)
     
 
@@ -43,13 +43,11 @@ Data Cleaning was mainly done using Excel which performed the ff tasks:
 2. Car prices adjustment
    - Erronous data prices were observed, seems like three zeros "000" were missing for some 'high-end' car prices (might be a typo error). And thus, changing them into a more realistic amount by multiplying them into "1000" could create a more realistic analysis. Google seach helped to validate the data.
 
-
-
 ## Data Analysis
 
-### Age and Depreciation
+### Depreciation
 
-1. Study the relationship between the car age, mileage, and price to understand the depreciation trends.
+1. Study the relationship between the car age and average price to understand the depreciation trends.
 2. Compare how different categories depreciates over time.
 
 
@@ -70,8 +68,16 @@ Data Cleaning was mainly done using Excel which performed the ff tasks:
 
 ### Insights
 
-  -  Expensive vehicles lose on average 20% of their value year on year.
-  -  Base cars only lose on average 10% of their value year on year.
+  -  Expensive vehicles lose on average 20% of their value year on year;
+  -  Base cars only lose on average 10% of their value year on year;
+  -  Not true for sports cars.
+
+### Recommendation
+
+  - Those considering buying a brand new vehicle may consider looking the affordable base models as they tend to hold value better
+  - If preference is a premium model, certified pre-owned vehicles are a good option as depreciation slows down after 5 years.
+
+
 
 
 
